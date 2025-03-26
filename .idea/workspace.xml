@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="af62d6dd-82e7-48dc-aa53-05ebc1cfac55" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/par algorithme genetique.py" afterDir="false" />
+    <list default="true" id="af62d6dd-82e7-48dc-aa53-05ebc1cfac55" name="Changes" comment="1st comit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Résolution par force brute.py" beforeDir="false" afterPath="$PROJECT_DIR$/Résolution par force brute.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/par algorithme genetique.py" beforeDir="false" afterPath="$PROJECT_DIR$/par algorithme genetique.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,15 +74,28 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1742909112067</updated>
-      <workItem from="1742909113140" duration="21505000" />
+      <workItem from="1742909113140" duration="24345000" />
     </task>
+    <task id="LOCAL-00001" summary="1st comit">
+      <option name="closed" value="true" />
+      <created>1742953277650</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1742953277650</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1st comit" />
+    <option name="LAST_COMMIT_MESSAGE" value="1st comit" />
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Problème_du_voyageur_de_commerce_algorithmes_génétiques$Résolution_par_force_brute.coverage" NAME="Résolution par force brute Coverage Results" MODIFIED="1742938099785" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Problème_du_voyageur_de_commerce_algorithmes_génétiques$par_algorithme_genetique.coverage" NAME="par algorithme genetique Coverage Results" MODIFIED="1742949308226" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Problème_du_voyageur_de_commerce_algorithmes_génétiques$par_algorithme_genetique.coverage" NAME="par algorithme genetique Coverage Results" MODIFIED="1742954958166" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
